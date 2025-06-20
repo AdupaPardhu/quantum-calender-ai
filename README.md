@@ -2,7 +2,7 @@
 
 > **The future of calendar applications is here!** Experience AI-powered scheduling with stunning futuristic design.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/quantum-calendar-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AdupaPardhu/quantum-calendar-ai)
 
 ## 🌟 **Live Demo**
 **🔗 [Experience Quantum Calendar AI](https://quantum-calendar-ai.vercel.app)**
